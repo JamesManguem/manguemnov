@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jamesmanguem.github.io/manguemnov/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
